@@ -1,6 +1,9 @@
 <h1 align="center">Hi 👋, I'm Shukanya</h1>
 <h3 align="center">Code is like humor</h3>
 
+<img align="right" alt="Coding" width="400" src="https://i.gifer.com/3Ayb.gif">
+
+
 - 🔭 I’m currently working on **Smart Attendance Tracker**
 
 - 🌱 I’m currently learning **Javascript,C++,Kotlin**
