@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Shukanya</h1>
 <h3 align="center">Code is like humor</h3>
-![0](https://user-images.githubusercontent.com/61475220/96919833-f701bb80-14c9-11eb-8eea-1c46ba92b906.jpg)
+![MasterHead](https://user-images.githubusercontent.com/61475220/96919833-f701bb80-14c9-11eb-8eea-1c46ba92b906.jpg)
 <img align="right" alt="Coding" width="250" 
  src="https://media.tenor.com/8ZpbRdXPnd4AAAAM/programming-crazy.gif">
 
