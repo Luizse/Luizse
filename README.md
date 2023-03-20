@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Shukanya</h1>
 <h3 align="center">Code is like humor</h3>
 
-<img align="right" alt="Coding" width="310" 
+<img align="right" alt="Coding" width="250" 
  src="https://media.tenor.com/8ZpbRdXPnd4AAAAM/programming-crazy.gif">
 
 
