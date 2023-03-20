@@ -1,9 +1,9 @@
 
-![MasterHead](https://repository-images.githubusercontent.com/462900780/0a10af70-6cbf-46df-9071-0ff586a3b1d6)
+![MasterHead]()
 <h1 align="center">Hi 👋, I'm Shukanya</h1>
 <h3 align="center">Code is like humor</h3>
 <img align="right" alt="Coding" width="250" 
- src="https://media.tenor.com/8ZpbRdXPnd4AAAAM/programming-crazy.gif">
+ src="https://repository-images.githubusercontent.com/462900780/0a10af70-6cbf-46df-9071-0ff586a3b1d6">
 
 
 - 🔭 I’m currently working on **Smart Attendance Tracker**
