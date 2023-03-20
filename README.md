@@ -2,7 +2,7 @@
 <h3 align="center">Code is like humor</h3>
 
 <img align="right" alt="Coding" width="400" 
- src="https://www.google.com/url?sa=i&url=https%3A%2F%2Far.javamem.com%2Fpictures%2Ffrustrated-animated-gif&psig=AOvVaw0rPqCxzZQ94mC-ZkmOHy_O&ust=1679379339178000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCJj7ttnt6f0CFQAAAAAdAAAAABAY">
+ src="https://media.tenor.com/8ZpbRdXPnd4AAAAM/programming-crazy.gif">
 
 
 - 🔭 I’m currently working on **Smart Attendance Tracker**
