@@ -2,7 +2,7 @@
 ![MasterHead]()
 <h1 align="center">Hi 👋, I'm Shukanya</h1>
 <h3 align="center">Code is like humor</h3>
-<img align="right" alt="Coding" width="250" 
+<img align="right" alt="Coding" width="300" 
  src="https://repository-images.githubusercontent.com/462900780/0a10af70-6cbf-46df-9071-0ff586a3b1d6">
 
 
