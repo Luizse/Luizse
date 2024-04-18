@@ -6,9 +6,9 @@
  src="https://repository-images.githubusercontent.com/462900780/0a10af70-6cbf-46df-9071-0ff586a3b1d6">
 
 
-- 🔭 I’m currently working on **Smart Attendance Tracker**
+- 🔭 I’m currently working on **Game Dev**
 
-- 🌱 I’m currently learning **Javascript,C++,Kotlin**
+- 🌱 I’m currently learning **React**
 
 - 📫 How to reach me **hukanyahazarika@gmail.com**
 
